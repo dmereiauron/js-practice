@@ -1,2 +1,2 @@
-# js-practice
+# Practice
 My starter Webpack config
